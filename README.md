@@ -6,12 +6,17 @@ Quin Asselin, 2022
 ***
 
 ### Repository Description:
-This application contains the HTML and formatting for a webpage about the author. This project was hand-built in tandem with a programming-class taught by Epicodus.
+This application contains the HTML and formatting for a webpage about the author. This project was hand-built in tandem with a programming class taught by Epicodus. Use of HTML formatted with CSS and Bootstrap grid layout. 
+Included information:
+- Name and general author information
+- Previous and current projects from author
+- Professional background
+- Coding related motivations and interests
 
 ***
 
 ### Github Pages
-This project can be accessed on Github Pages [here](<Insert Link>)
+This project can be accessed on Github Pages via this [link](<Insert Link>)
 
 ***
 
