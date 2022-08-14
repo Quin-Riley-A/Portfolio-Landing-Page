@@ -41,7 +41,7 @@ This project can be accessed on Github Pages via this [link](<Insert Link>)
 ***
 
 ### Setup Instructions: {#setup}
-This webpage can be access by following the Github Pages linked [above](#github-pages)
+This webpage can be access by following the Github Pages linked [above](#pages)
 
 Alternatively, the project can be opened via cloning/downloading repository:
 1. Download this repository from its Github Repository.
