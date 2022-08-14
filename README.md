@@ -26,7 +26,7 @@ Included information:
 ***
 
 ### Github Pages: {#pages}
-This project can be accessed on Github Pages via this [link](<Insert Link>)
+This project can be accessed on Github Pages via this [link](https://quin-riley-a.github.io/Portfolio-Landing-Page/)
 
 ***
 
