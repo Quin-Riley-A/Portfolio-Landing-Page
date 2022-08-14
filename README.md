@@ -13,7 +13,7 @@ Quin Asselin, 2022
 5. [Known Bugs](#bugs)
 6. [License Information](#license)
 
-***
+*** 
 
 ### Repository Description: {#description}
 This application contains the HTML and formatting for a webpage about the author. This project was hand-built in tandem with a programming class taught by Epicodus. Use of HTML formatted with CSS and Bootstrap grid layout. 
