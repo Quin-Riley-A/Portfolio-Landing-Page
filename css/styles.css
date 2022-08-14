@@ -8,6 +8,14 @@ body{
   background-color: rgb(184, 226, 245);
 }
 
+.underline{
+  text-decoration: underline;
+}
+
+.italic{
+  font-style: italic;
+}
+
 h1{
 
 }
