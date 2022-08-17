@@ -59,3 +59,6 @@ Additionally, included image does not scale-down to fit to smaller screen sizes 
 
 ### License Information {#license}
 *Quin Asselin, 2022. Available for distribution, modification, inspection, and application under [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)*
+
+### Photo License {#photo}
+*Photo credit to Peapod Adlei, 2022*
